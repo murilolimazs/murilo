@@ -1,7 +1,7 @@
 Seja bem-vindo ao meu perfil!
 
 Meu nome é Murilo Lima.
-• Estou estudando no Alura.
+• Estou estudando no Alura.com.br
 • Estou me desenvolvendo na linguagem JavaScript.
 • Utilizo esse espaço para a minha organização e compartilhamentos dos meus projetos.
 
